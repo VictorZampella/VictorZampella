@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-- 🎓 Estudante de Ciências da Computação e participante do programa PROA PROPROFISSÃO - FULLSTACK
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciências da Computação
 - 📱 Focado em desenvolvimento mobile, com experiência em **Kotlin** e **Android Studio**
 - 🚀 Em busca de oportunidades para crescer na área de desenvolvimento e contribuir em projetos desafiadores
 - 💬 Pergunte-me sobre **Kotlin**, **HTML**, **JavaScript** ou **desenvolvimento mobile**
