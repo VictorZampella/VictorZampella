@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciências da Computação
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Tecnologia em Sistemas para Internet
 - 📱 Focado em desenvolvimento mobile, com experiência em **Kotlin** e **Android Studio**
 - 🚀 Em busca de oportunidades para crescer na área de desenvolvimento e contribuir em projetos desafiadores
 - 💬 Pergunte-me sobre **Kotlin**, **HTML**, **JavaScript** ou **desenvolvimento mobile**
